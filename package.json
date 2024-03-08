@@ -4,7 +4,7 @@
   "description": "Jwt Authentication with Node.js, Typegoose, mongoDB, Mongoose, Docker, Redis, and JsonWebToken",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only src/shared/app.ts"
+    "start": "ts-node-dev --respawn --transpile-only src/shared/server.ts"
   },
   "keywords": [],
   "author": "Leonardo Barrocal",
